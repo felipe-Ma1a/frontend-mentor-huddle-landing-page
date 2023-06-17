@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="#"></a>
-- Live Site URL: <a href="#"></a>
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/huddle-landing-page-with-flex-and-grid-aSW81hNKqF" target="_blank">Frontend Mentor</a>
+- Live Site URL: <a href="https://felipe-ma1a.github.io/frontend-mentor-huddle-landing-page/" target="_blank">Github Pages</a>
 
 ## Built with
 
